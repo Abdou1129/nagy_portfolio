@@ -41,7 +41,7 @@ st.write(" • ".join(skills))
 st.header("Portfolio")
 portfolio = {
     "AL-Jazeera Mubasher - China": "https://tinyurl.com/25er7m2j",
-    "World Cup - Berlin": "https://tinyurl.com/2p88tnd",
+    "World Cup - Berlin": "https://tinyurl.com/2p88tndu",
     "Der Divan - Berlin": "https://tinyurl.com/9sm3y7t4",
     "Al-Salam Verein - NRW": "https://tinyurl.com/3kbeymet",
     "Kuwait University": "https://tinyurl.com/msnhz8cs",
