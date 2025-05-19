@@ -15,7 +15,7 @@ st.subheader("Professional Visual Content Creator")
 # Profile image and bio
 col1, col2 = st.columns([1, 2])
 with col1:
-    st.image("nagy1.png", width=250)
+    st.image("images/nagy1.png", width=250)
 with col2:
     st.write("""
     A professional visual content creator with over six years of experience in various companies 
