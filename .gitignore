@@ -4,6 +4,7 @@ venv
 .venv
 .vscode
 
+constants.py
 # Design files
 high_level_design.md
 
